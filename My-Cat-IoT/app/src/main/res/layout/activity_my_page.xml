@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:paddingBottom="20dp"
+        android:text="마이페이지"
+        android:textColor="#070606"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/mp_img_human_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/mp_txt_human_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+
+            android:text="냥이의 집사, 남은님"
+            android:textColor="#000000"
+            android:textSize="20sp"
+
+
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/mp_txt_change_human"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="내 정보 수정하기"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:paddingBottom="30dp"
+        android:paddingTop="20dp"
+        android:textStyle="bold"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/mp_img_cat_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/mp_txt_cat_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:text="남은님의 주인, 냥이"
+            android:textColor="#000000"
+            android:textSize="20sp"
+
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/mp_txt_change_cat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="반려묘 정보 수정하기"
+
+        android:textColor="#000000"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:paddingBottom="30dp"
+        android:paddingTop="20dp"
+        android:textStyle="bold"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/ic_settings_black_24dp"
+
+            android:paddingEnd="10dp"
+            android:paddingTop="20dp"
+            android:paddingBottom="30dp"
+            />
+
+        <TextView
+            android:id="@+id/mp_txt_change_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:paddingBottom="30dp"
+            android:text="앱 설정 변경하기"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            />
+    </LinearLayout>
+
+
+</LinearLayout>
+
+

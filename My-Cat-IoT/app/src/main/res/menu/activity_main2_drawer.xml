@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/cat"
+            android:title="메인화면" />
+<!--        <item-->
+<!--            android:id="@+id/nav_gallery"-->
+<!--            android:icon="@drawable/ic_menu_gallery"-->
+<!--            android:title="@string/menu_gallery" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_slideshow"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="@string/menu_slideshow" />-->
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="마이페이지" />
+
+
+
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="설정" />
+    </group>
+
+<!--    <item android:title="기타">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/nav_share"-->
+<!--                android:icon="@drawable/ic_menu_share"-->
+<!--                android:title="공유하기" />-->
+<!--           -->
+<!--            <item-->
+<!--                android:id="@+id/nav_send"-->
+<!--                android:icon="@drawable/ic_menu_send"-->
+<!--                android:title="메일보내기" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+</menu>
