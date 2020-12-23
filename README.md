@@ -59,6 +59,6 @@
 - DataBase : MySQL
 - Libraries : MPAndroidChart
 
-# Try it out!
+## Watch demo video
 
 <a href="https://www.youtube.com/watch?v=idzXUUoaMn0" target="_blank">시연 영상 보기</a>
