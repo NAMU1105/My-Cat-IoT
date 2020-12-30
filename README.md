@@ -23,12 +23,12 @@
 
 <br>
 <div style="display: flex">
-<img width="400"  src="https://user-images.githubusercontent.com/47317129/103030318-e7bcee00-459e-11eb-9d3e-9dee8d4a3315.png"  >
-<img width="400" src="https://user-images.githubusercontent.com/47317129/103031234-c9f08880-45a0-11eb-9d62-2d425b47f024.PNG"  >
+<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030318-e7bcee00-459e-11eb-9d3e-9dee8d4a3315.png"  >
+<img width="400" height="380"src="https://user-images.githubusercontent.com/47317129/103031234-c9f08880-45a0-11eb-9d62-2d425b47f024.PNG"  >
   <p>현재 사료양이 바뀐 것을 확인할 수 있습니다.</p>
   <br />
-<img width="400" src="https://user-images.githubusercontent.com/47317129/103030906-17202a80-45a0-11eb-9c5c-3f1d4851d06b.PNG">
-<img width="400" src="https://user-images.githubusercontent.com/47317129/103031070-7b42ee80-45a0-11eb-9d72-158ae5e6d6b9.PNG"  >
+<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030906-17202a80-45a0-11eb-9c5c-3f1d4851d06b.PNG">
+<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031070-7b42ee80-45a0-11eb-9d72-158ae5e6d6b9.PNG"  >
 </div>
 
 5. ###### 일/월별 화장실 이용 통계
