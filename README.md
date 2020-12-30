@@ -13,7 +13,7 @@
 
 2. ###### Home CCTV
 
-<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031035-66fef180-45a0-11eb-83d6-b1a6372710a7.PNG" style="display: block" >
+<!-- <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031035-66fef180-45a0-11eb-83d6-b1a6372710a7.PNG" style="display: block" > -->
 
 3. ###### 놀아주기
 
