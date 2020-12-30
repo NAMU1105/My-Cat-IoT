@@ -31,7 +31,7 @@
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031070-7b42ee80-45a0-11eb-9d72-158ae5e6d6b9.PNG"  >
 </div>
 
-5. ###### 일/월별 화장실 이용 통계
+5. ###### 일/별 화장실 이용 통계
 
 <div style="display: flex">
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031125-9281dc00-45a0-11eb-9419-450ba30e7243.png"  >
