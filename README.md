@@ -19,24 +19,23 @@
 
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031035-66fef180-45a0-11eb-83d6-b1a6372710a7.PNG" style="display: block" >
 
-4. ###### 음식 배급
+4. ###### 사료양, 식수량 체크 및 음식 배급
 
 <br>
 <div style="display: flex">
-<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030318-e7bcee00-459e-11eb-9d3e-9dee8d4a3315.png"  >
-<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031234-c9f08880-45a0-11eb-9d62-2d425b47f024.PNG"  >
-<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030906-17202a80-45a0-11eb-9c5c-3f1d4851d06b.PNG">
+<img  src="https://user-images.githubusercontent.com/47317129/103030318-e7bcee00-459e-11eb-9d3e-9dee8d4a3315.png"  >
+<img  src="https://user-images.githubusercontent.com/47317129/103031234-c9f08880-45a0-11eb-9d62-2d425b47f024.PNG"  >
+<img  src="https://user-images.githubusercontent.com/47317129/103030906-17202a80-45a0-11eb-9c5c-3f1d4851d06b.PNG">
+<img  src="https://user-images.githubusercontent.com/47317129/103031070-7b42ee80-45a0-11eb-9d72-158ae5e6d6b9.PNG"  >
 </div>
 
-5. ###### 수량 체크
+5. ###### 일/월별 화장실 이용 통계
 
 <div style="display: flex">
-<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031070-7b42ee80-45a0-11eb-9d72-158ae5e6d6b9.PNG"  >
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031125-9281dc00-45a0-11eb-9419-450ba30e7243.png"  >
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031127-931a7280-45a0-11eb-899e-6bb0a0072cf0.PNG"  >
 </div>
 
-6. ###### 일/월별 화장실 이용 통계
 
 ## How we built it
 
