@@ -10,7 +10,6 @@
 
 1. ###### 로그인, 회원가입
 
-<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030906-17202a80-45a0-11eb-9c5c-3f1d4851d06b.PNG" style="display: block" >
 
 2. ###### Home CCTV
 
@@ -26,6 +25,7 @@
 <div style="display: flex">
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030318-e7bcee00-459e-11eb-9d3e-9dee8d4a3315.png"  >
 <img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103031234-c9f08880-45a0-11eb-9d62-2d425b47f024.PNG"  >
+<img width="400" height="380" src="https://user-images.githubusercontent.com/47317129/103030906-17202a80-45a0-11eb-9c5c-3f1d4851d06b.PNG">
 </div>
 
 5. ###### 수량 체크
