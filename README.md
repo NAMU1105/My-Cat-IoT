@@ -56,7 +56,7 @@
 
 - OS : Ubuntu
 - Web server : Nginx
-- Languages : Java, PHP, C++, SQL
+- Languages : Java, PHP, C++
 - DataBase : MySQL
 - Libraries : MPAndroidChart
 
