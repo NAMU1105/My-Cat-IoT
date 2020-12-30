@@ -58,7 +58,7 @@
 - Web server : Nginx
 - Languages : Java, PHP, C++
 - DataBase : MySQL
-- Libraries : MPAndroidChart
+- Libraries : MPAndroidChart, Retrofit
 
 ## Watch demo video
 
